@@ -14,3 +14,7 @@ Finally, create a .env file with the following values:
 INFURA_TOKEN=0
 ALCHEMY_TOKEN=0
 ```
+
+You can find our other two repositories (with the front end code for the landing page and the app) at:
+1. https://idx-hackathon-lp.vercel.app/
+2. https://idx-hackathon-gw4q2b149-alvs-projects-d7e33084.vercel.app/
